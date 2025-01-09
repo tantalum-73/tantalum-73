@@ -1,8 +1,11 @@
+![image](https://github.com/user-attachments/assets/ba4952fc-a5a1-43e3-9e64-df9cac012d1e)
+
+
 ## 🌟Welcome to Rohan's GitHub🌟
 Hi there! 👋 I'm Rohan, a tech enthusiast, machine learning wizard 🧙‍♂️, and lover of good code & better coffee ☕. Dive in and explore my world of creative chaos!
 
 ## 🚀About Me
-- 🎓 Currently a student at Northeastern University 🌍.
+- 🎓 Currently a student at Northeastern University 🐕.
 - 🛠️ Building the future, one project at a time. From AI-powered healthcare solutions to restaurant data warehouses, I’m all about using tech for good!
 - 🌈 Passionate about Machine Learning, MLOps, and tinkering with audio and multimodal AI.
 
