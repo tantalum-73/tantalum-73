@@ -7,7 +7,6 @@
 Hi there! 👋 I'm Rohan, a tech enthusiast, machine learning wizard 🧙‍♂️, and lover of good code & better coffee ☕. Dive in and explore my world of creative chaos!
 
 ## 🚀About Me
-- 🎓 Currently a student at Northeastern University 🐕.
 - 🛠️ Building the future, one project at a time. From AI-powered healthcare solutions to restaurant data warehouses, I’m all about using tech for good!
 - 🌈 Passionate about Machine Learning, MLOps, and tinkering with audio and multimodal AI.
 
@@ -34,7 +33,7 @@ Hi there! 👋 I'm Rohan, a tech enthusiast, machine learning wizard 🧙‍♂�
 ## 🛠️ How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohanreddypathi/) (Let’s connect!)
 - 🐦 [X](https://x.com/RohanReddyP420) (Occasional Memes)
-- 📧 Email: [pathi.r@northeastern.edu](pathi.r@northeastern.edu)
+- 📧 Email: [rohanathi2001@gmail.com](rohanathi2001@gmail.com)
 <!--
 **tantalum-73/tantalum-73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
